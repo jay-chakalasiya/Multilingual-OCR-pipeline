@@ -1,7 +1,7 @@
 # Multilingual-OCR-pipeline
 
-# An end to end OCR pipr linr for different regional languages
+### An end to end OCR pipe line for different regional languages
 
-# Includes Datset generating Algorithm
-# Edge Detector Algorithms
-# OCR Model using Attention Model
+#### Includes algorithm to generate augmented traning dataset
+#### Edge Detection algotihm
+#### OCR Model using Attention Mechanism
